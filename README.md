@@ -20,7 +20,7 @@ Do nothing on Click but create new draft on Middle Click.
 
 * `<$middle-click-actions/>` widget must be a direct child of the widget/UI element that you want to react to the middle click, since it attaches itself to its parent and listens on clicks on there.
 * The widget does not need to be the first child.
-* Any actions defined inside this widget will be procted from being invoked by any parent widget^^[1]^^
+* Any actions defined inside this widget will be protected from being invoked by any parent widget
 
 ## Demo:
 
