@@ -1,5 +1,7 @@
 # Middle Click Actions [TiddlyWiki5 Plugin]
 
+> :warning: **This repository has been moved**: To make development easier this plugin's code was moved to [EvidentlyCube/TW5-PluginShowcase](https://github.com/EvidentlyCube/TW5-PluginShowcase/tree/main), specifically [here](https://github.com/EvidentlyCube/TW5-PluginShowcase/tree/main/plugins/EvidentlyCube/TW5-MiddleClickActions) .
+
 Allows invoking an action when middle click is pressed on an element.
 
 Initially developed as a way to close open tabs with middle click
